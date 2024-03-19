@@ -5,4 +5,6 @@ written code related to it
 Day 2
 started doing easy questions from Hackerrank on strings and array
 became aware about Arraylist(dynamic) which is different from normal array(static)
-learning for test cases using youtube
+learning for test cases using YouTube
+learn about the string builder to easily reverse the string
+created Test cases for the Day 2 file moving on to the Day 1 File
