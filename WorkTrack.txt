@@ -1,10 +1,14 @@
 Day 1
 Started working on Java Basic using -> https://www.w3schools.com/java/default.asp
-made small list of methods on string
+made a small list of methods on string
 written code related to it
+created test cases for Day 1 file
+Day 1 assigned work Complete
+
 Day 2
 started doing easy questions from Hackerrank on strings and array
 became aware about Arraylist(dynamic) which is different from normal array(static)
 learning for test cases using YouTube
 learn about the string builder to easily reverse the string
 created Test cases for the Day 2 file moving on to the Day 1 File
+Day 2 assigned work Complete
