@@ -16,5 +16,12 @@ Day 2 assigned work Complete
 Day 3
 read more about testing JUnit 4
 difference between StringBuilder and string
-Enhanced forloop
-Learning about LinkedList from this like  ->https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html
+Enhanced for-loop
+Learning about LinkedList from this link  ->https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html
+Day 3 assigned work Complete
+
+Day 4
+Did questions from the mail
+working on anagram
+did basic operations of stacks
+Read about stacks vs deque 
