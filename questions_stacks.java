@@ -12,7 +12,7 @@ import javax.swing.tree.TreeNode;
 
 import org.junit.Test;
 /*
-    DOUBT ON LINE 74
+    DOUBT ON LINE 81
  * Inorder traversal -> complete left from root then last wale se ek upar then right if element 
                         else back to root and then right in BST
     preorder traversal -> u note the parent node then keep going left and without jumping to your main parent node u go right node of the root node after this u again note the root node and then go to parent root node
