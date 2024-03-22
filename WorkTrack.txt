@@ -25,3 +25,10 @@ Did questions from the mail
 working on anagram
 did basic operations of stacks
 Read about stacks vs deque 
+
+Day 5 
+Begin implementation of changes suggested 
+begin creating a habit of it
+today, it took longer than expected to code in Notepad
+Did questions on Stacks
+found lots of issue in writing, improving while typing
